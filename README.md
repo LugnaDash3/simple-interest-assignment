@@ -12,5 +12,5 @@ Provide a standard code of conduct (brief is acceptable for assignments). Exampl
 [Short list of expected behaviors...]
 
 ## Enforcement
-Contact: your-email@example.com
+Contact:lugnadash3@gmail.com
 
