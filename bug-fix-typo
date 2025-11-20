@@ -1,0 +1,5 @@
+git checkout -b bug-fix-typo
+# edit README.md (fix a typo or add one-line change)
+git add README.md
+git commit -m "Fix typo in README"
+git push -u origin bug-fix-typo
