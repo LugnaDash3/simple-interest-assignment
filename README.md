@@ -1,16 +1,17 @@
-Create via GitHub UI or locally and push.
+# Simple Interest Assignment
 
-# 4. Add `CODE_OF_CONDUCT.md`
-Provide a standard code of conduct (brief is acceptable for assignments). Example minimal structure:
-```markdown
-# Contributor Covenant Code of Conduct
+Short description: a small shell script to compute simple interest.
 
-## Our Pledge
-[Short pledge...]
+## Files in this repo
+- LICENSE (Apache 2.0)
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- simple-interest.sh
 
-## Our Standards
-[Short list of expected behaviors...]
-
-## Enforcement
-Contact:lugnadash3@gmail.com
+## How to run
+Make executable:
+```bash
+chmod +x simple-interest.sh
+./simple-interest.sh principal rate years
 
